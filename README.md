@@ -37,15 +37,6 @@ The website is fully hosted on the cloud and accessible globally using an S3 pub
 8. Apply public bucket policy
 9. Copy the generated **S3 website URL** and test it online
 
-## 📂 **Project Structure**
-
-portfolio-website/
-│── index.html
-│── style.css
-│── /images
-│── resume.pdf
-│── README.md
-
 ## 🔗 **Live Website Link**
 
 > *https://shreya-b-yadav-portfolio-bucket1.s3.eu-north-1.amazonaws.com/My+portfolio/index.html*
